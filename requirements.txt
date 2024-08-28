@@ -1,4 +1,6 @@
 streamlit
 pandas
 ta
-metatrader5==5.0.44
+metatrader5==5.0.50
+--no-binary :all: metatrader5
+
