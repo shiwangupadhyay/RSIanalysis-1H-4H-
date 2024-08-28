@@ -1,4 +1,4 @@
 streamlit
 pandas
 ta
-MetaTrader5
+metatrader5==5.0.44
